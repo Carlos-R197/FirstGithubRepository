@@ -1,4 +1,4 @@
-#Basic Git Commands
+# Basic Git Commands
 
 Everybody should know the following git commands in order to
 easily manage their repositories:
